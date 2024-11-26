@@ -12,9 +12,9 @@
 
 **ChatGPT 中文版:** [https://www.yixiaai.com/](https://www.yixiaai.com/)
 
-## ChatGPT镜像网站推荐
+## ChatGPT 镜像网站推荐
 
-2024/11/27 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
+2024/11/27 最后更新 ChatGPT 镜像网站：https://chatgpt.lanjing.ai/
 
 
 | 镜像站地址   | 支持模型       | 功能亮点          |
@@ -24,7 +24,7 @@
 | [https://chatgpt.lanjing.ai/](https://chatgpt.lanjing.ai/) | GPT-4o、GPT-4 | 无需注册 |
 | [https://yixiaai.cn/](https://yixiaai.cn/) | ChatGPT中文版 | AI工具站 |
 
-## 为什么使用ChatGPT镜像站
+## 为什么使用 ChatGPT 镜像站
 
 - 💡在某些地区，访问 OpenAI 官方网站可能受到限制或阻塞，镜像站可以帮助用户绕过这些限制，继续使用 ChatGPT 服务。
 - 💡在高流量时期，镜像站可以分担部分用户请求，减轻官方服务器的负担，确保服务的稳定性。
