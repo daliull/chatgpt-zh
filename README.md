@@ -1,4 +1,4 @@
-# 【 ChatGPT 中文版 】国内 ChatGPT 镜像网站免费分享（2024/11/30）
+# 【 ChatGPT 中文版 】国内 ChatGPT 镜像网站免费分享（2024/12/01）
 
 >最后增加 ChatGPT 中文版镜像站：https://www.yixiaai.com/
 
@@ -14,7 +14,7 @@
 
 ## ChatGPT 镜像网站推荐
 
-2024/11/27 最后更新 ChatGPT 镜像网站：https://chatgpt.lanjing.ai/
+2024/11/30 最后更新 ChatGPT 镜像网站：https://chatgpt.lanjing.ai/
 
 
 | 镜像站地址   | 支持模型       | 功能亮点          |
